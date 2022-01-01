@@ -1,1352 +1,1480 @@
-[
- {
-  "nama": "Muhammad Giffari Anugerah Perdana",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150114744
- },
- {
-  "nama": "Adrian Maulana",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950113406
- },
- {
-  "nama": "Ibnu Sahid",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050110489
- },
- {
-  "nama": "Briliant Mahathir",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050117625
- },
- {
-  "nama": "Riska Yuliana",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika ",
-  "nim": 11950125206
- },
- {
-  "nama": "Muhammad Dzaky Aprima",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150111896
- },
- {
-  "nama": "NIDHAL FIKRI ADIWIDYA",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050315947
- },
- {
-  "nama": "M Afif Rizky A",
-  "universitas": "Institut Teknologi Bandung",
-  "jurusan": "Informatika",
-  "nim": 23521034
- },
- {
-  "nama": "Dhea Putri Aftari",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120341
- },
- {
-  "nama": "Tata Ayunita Pertiwi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050327015
- },
- {
-  "nama": "Raviko Muhammad Raihan Yusi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150111665
- },
- {
-  "nama": "Nurul Fatiara",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122431
- },
- {
-  "nama": "Aji Bayu Permadi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113503
- },
- {
-  "nama": "Yudha Adelin Angkasa",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika ",
-  "nim": 12050110343
- },
- {
-  "nama": "Putri Juniarti",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150121672
- },
- {
-  "nama": "Alhuwayrist Royhan A",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150111628
- },
- {
-  "nama": "Muhammad Mulky Mar'arif",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150111425
- },
- {
-  "nama": "Martin Adha",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112287
- },
- {
-  "nama": "Aji Prasetia",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050114090
- },
- {
-  "nama": "FITRI AMALIA",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150121101
- },
- {
-  "nama": "Bryant Favian Ali",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112938
- },
- {
-  "nama": "Arif Al Farizi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112154
- },
- {
-  "nama": "Rizki Wahyudi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050110396
- },
- {
-  "nama": "Egi Larasati",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050123653
- },
- {
-  "nama": "Delia Putri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122676
- },
- {
-  "nama": "Melinda Sari",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150124343
- },
- {
-  "nama": "Lugas Pasiolo",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113246
- },
- {
-  "nama": "ALIF SYAHPUTRA",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116918
- },
- {
-  "nama": "Muhammad Syarif",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112373
- },
- {
-  "nama": "SAUGI RAHJU PRATAMA",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050115977
- },
- {
-  "nama": "Alif Alfarabi.B",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112688
- },
- {
-  "nama": "Dimas Agung Ikhlasul Amal",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150113179
- },
- {
-  "nama": "Syifa Salsabilla",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120344
- },
- {
-  "nama": "Rahimah",
-  "universitas": "Politeknik Negeri Tanah Laut",
-  "jurusan": "Teknik Informatika\/Teknologi Informasi",
-  "nim": 1901301097
- },
- {
-  "nama": "FITO NARDIAN",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113994
- },
- {
-  "nama": "M. Wira Ade Kusuma",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12150311480
- },
- {
-  "nama": "Gilang Ramadhan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113045
- },
- {
-  "nama": "Muhammad Rakha",
-  "universitas": "UNRI",
-  "jurusan": "Teknik Informatika",
-  "nim": 1807124745
- },
- {
-  "nama": "Muhammad Iqbal Maulana",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113093
- },
- {
-  "nama": "Dary Rahman",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112305
- },
- {
-  "nama": "Hafiz Aryan Siregar",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12150310904
- },
- {
-  "nama": "MHD. KADARMAN",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113282
- },
- {
-  "nama": "Mudia Ulfa",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122415
- },
- {
-  "nama": "Alghozi Rafif Ali",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113406
- },
- {
-  "nama": "Nabyl Alfahrez Ramadhan Amril",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116176
- },
- {
-  "nama": "Tri Handoyo Adi Putra",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050114323
- },
- {
-  "nama": "Putri Zahwa",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika ",
-  "nim": 12050120319
- },
- {
-  "nama": "Ardi Wirawan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116312
- },
- {
-  "nama": "NUR LAILA",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122424
- },
- {
-  "nama": "Muhammad Zacky Raditya",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12150311608
- },
- {
-  "nama": "Febrian Rizki Adi Sutiyo",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116997
- },
- {
-  "nama": "Try Helviansyah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150114725
- },
- {
-  "nama": "Yoga El Saputra",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116789
- },
- {
-  "nama": "Aditya nugraha yesa",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12150312429
- },
- {
-  "nama": "Fayat zabihullah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150112066
- },
- {
-  "nama": "May Sra Handika",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113222
- },
- {
-  "nama": "Hani Handayani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050321652
- },
- {
-  "nama": "Ali Alamuddin Muzaffar",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050310450
- },
- {
-  "nama": "Nailul Amani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050320469
- },
- {
-  "nama": "Nova Siska Nurfadilah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150124481
- },
- {
-  "nama": "Muhammad Ichsan Taufiqurrochman",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113384
- },
- {
-  "nama": "Muhamad Nur Sarifudin",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12150311897
- },
- {
-  "nama": "Melinia Suci Ramadhani",
-  "universitas": "Universitas Ibn Khaldun Bogor",
-  "jurusan": "Teknik Informatika",
-  "nim": 181106041165
- },
- {
-  "nama": "Mohammad Zhunio Farizky",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112257
- },
- {
-  "nama": "Ahmad Fauzan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Elektro",
-  "nim": 12050512304
- },
- {
-  "nama": "Ahmad Yasin",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113735
- },
- {
-  "nama": "AHMAD DHANI",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12150311729
- },
- {
-  "nama": "Salsa Winanda",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050322147
- },
- {
-  "nama": "M Fadhillah Fitorahman",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150114446
- },
- {
-  "nama": "Muhammad Taufiq",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115137
- },
- {
-  "nama": "Putri Syakira Wirdiani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150121485
- },
- {
-  "nama": "Reza Mahendra Sardi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115193
- },
- {
-  "nama": "Fathurrahman Hafiz",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050312055
- },
- {
-  "nama": "Salsabila",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050121662
- },
- {
-  "nama": "Adilah Atikah Putri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120340
- },
- {
-  "nama": "Riadi Hermansyah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112983
- },
- {
-  "nama": "Syarifah aisyah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120380
- },
- {
-  "nama": "Desstari Rizky Wahyuni",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122464
- },
- {
-  "nama": "M. Haikel Oksama",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050313240
- },
- {
-  "nama": "Aidil Ahda",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050111677
- },
- {
-  "nama": "M. LUTHFI HARDIANT",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Pendidikan Agama Islam",
-  "nim": 12110112689
- },
- {
-  "nama": "Syifaul Habib",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Perbandingan Mazhab dan Hukum",
-  "nim": 12120310367
- },
- {
-  "nama": "Mita Tri Leony",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050123917
- },
- {
-  "nama": "Khoironi Nur Azizah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "PGMI",
-  "nim": 11910821364
- },
- {
-  "nama": "Indah Wulandari",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120353
- },
- {
-  "nama": "Muammar Rizkullah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Manajemen",
-  "nim": 12070110801
- },
- {
-  "nama": "Sasri'aini",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120386
- },
- {
-  "nama": "Mella Arfina",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122345
- },
- {
-  "nama": "Dimas Fauzan",
-  "universitas": "Universitas Muhammadiyah Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 210401136
- },
- {
-  "nama": "Anisa Putri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 12050326104
- },
- {
-  "nama": "Amanda Rahma Yanti",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122300
- },
- {
-  "nama": "Alifia Handayani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Ilmu Komunikasi",
-  "nim": 11840321752
- },
- {
-  "nama": "Taufiqurrahman",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Sistem Informasi",
-  "nim": 11850312423
- },
- {
-  "nama": "Siti Sri Rahayu",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120515
- },
- {
-  "nama": "Sephia Pratista",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950121740
- },
- {
-  "nama": "Shania Cerly Yolanda",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Ilmu Komunikasi",
-  "nim": 11840322667
- },
- {
-  "nama": "Resti Wahyuni",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Manajemen Dakwah",
-  "nim": 11840420799
- },
- {
-  "nama": "Nurhabibah Lubis",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11850122320
- },
- {
-  "nama": "Irna Syahputri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050126435
- },
- {
-  "nama": "Mia Santika Rm",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Matematika",
-  "nim": 12050427513
- },
- {
-  "nama": "Juliandi Kurniansyah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150111445
- },
- {
-  "nama": "LAILA NURUL FAUZIYYAH",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150122415
- },
- {
-  "nama": "Muhammad Ikhsan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11451105907
- },
- {
-  "nama": "NOVRI RAHMAN",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150110009
- },
- {
-  "nama": "Muhammad Alfarozi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116419
- },
- {
-  "nama": "M. Saski",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950110012
- },
- {
-  "nama": "Dhea Nabilla Adrian",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050123710
- },
- {
-  "nama": "Syafira Agnesti",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950125228
- },
- {
-  "nama": "Yusril Hidayat",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111753
- },
- {
-  "nama": "M.RIFALDO AL MAGRIBI",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111719
- },
- {
-  "nama": "Rahma Shinta",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950125168
- },
- {
-  "nama": "Afiana Nabilla Zulfa",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950121666
- },
- {
-  "nama": "Rifaldo abdul rahman",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115200
- },
- {
-  "nama": "Tedi Maulani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111744
- },
- {
-  "nama": "Zakiyul Fahmi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115237
- },
- {
-  "nama": "M. Junaidi Zidane",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111704
- },
- {
-  "nama": "Zaky Idhafi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950110021
- },
- {
-  "nama": "Hafizd Adryan Suvi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050111692
- },
- {
-  "nama": "Muhammad Fikri Sulthoni",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113077
- },
- {
-  "nama": "Nadila Handayani Putri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950120086
- },
- {
-  "nama": "Fathan Fanrita Masaugi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116900
- },
- {
-  "nama": "Elvina Afriani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050123163
- },
- {
-  "nama": "Yolanda",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120358
- },
- {
-  "nama": "Dilla Rahmiati",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050126068
- },
- {
-  "nama": "Maiyorahma Digna",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122022
- },
- {
-  "nama": "Nilam Purnama",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122396
- },
- {
-  "nama": "Ridho Ahadi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150115196
- },
- {
-  "nama": "Hanifa putri husellvi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150122219
- },
- {
-  "nama": "Citra Wulandari",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150121717
- },
- {
-  "nama": "Muhammad Bagas Akbar",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112788
- },
- {
-  "nama": "M. Rival Kurniawan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116070
- },
- {
-  "nama": "Hendrawansyah Nasution",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150113914
- },
- {
-  "nama": "Fajar Prayoga",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112032
- },
- {
-  "nama": "SalsaBillah Diva Jabasa",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150123443
- },
- {
-  "nama": "Maulana Ichsan Nopri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150114073
- },
- {
-  "nama": "Dicky syaputra",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150115116
- },
- {
-  "nama": "RIZMAH ZAKIAH NUR AHMAD",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150122153
- },
- {
-  "nama": "Astrid Ramadhani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150121537
- },
- {
-  "nama": "Nabila Al Rasyid",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150120329
- },
- {
-  "nama": "Muhammad Isra Almahsa Veriza",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950113430
- },
- {
-  "nama": "Isnan Mellian Ramadhan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111698
- },
- {
-  "nama": "R. Rahmadhani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115165
- },
- {
-  "nama": "Ferdian Arya Dinata",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115065
- },
- {
-  "nama": "Shella Sabila",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150125133
- },
- {
-  "nama": "Widya Guswanti",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150120069
- },
- {
-  "nama": "Lusi Diah Wiranti",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150121581
- },
- {
-  "nama": "Yoga Natadisastro",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150113125
- },
- {
-  "nama": "SHERLY ANANDA",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150121884
- },
- {
-  "nama": "Rendi Ibnu Syahputra",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050117694
- },
- {
-  "nama": "Muhammad Arif Aditya",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika ",
-  "nim": 12150113167
- },
- {
-  "nama": "Yolanda Enza Wella",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950121750
- },
- {
-  "nama": "Dwi Nur Fitrianto",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12059112655
- },
- {
-  "nama": "Alief Haikal Alwis",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050117644
- },
- {
-  "nama": "Saifur Yusuf Kurniawan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113402
- },
- {
-  "nama": "muhammad ilham ramadhan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150114705
- },
- {
-  "nama": "Ananda Vermiansyah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050114356
- },
- {
-  "nama": "Rana Fatrika",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120472
- },
- {
-  "nama": "Melan Pratiwi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950125118
- },
- {
-  "nama": "Maulana Junihardi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111715
- },
- {
-  "nama": "DESY PUTRI AYUNI",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950121681
- },
- {
-  "nama": "Risfi Ayu Sandika",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950125205
- },
- {
-  "nama": "M. Fadil Martias",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115110
- },
- {
-  "nama": "Imaduddien",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111693
- },
- {
-  "nama": "Hafez Almirza",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950113423
- },
- {
-  "nama": "Ahmad Paisal",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950114998
- },
- {
-  "nama": "Deny Ardianto",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111680
- },
- {
-  "nama": "Fauzan Adzim",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111686
- },
- {
-  "nama": "Risma Aprilia",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120332
- },
- {
-  "nama": "AHMAD SUTRIO PRIHATINOTO",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113307
- },
- {
-  "nama": "Yazid Abdullah Subhi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050110498
- },
- {
-  "nama": "Miftahul Jannah",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050126869
- },
- {
-  "nama": "Vioni Sephia Putri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050122112
- },
- {
-  "nama": "ismawan putra",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050110424
- },
- {
-  "nama": "Syahriatul Iksan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050117086
- },
- {
-  "nama": "Muhammad Hasbi Assidiqqi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115130
- },
- {
-  "nama": "Irsa Aprianti",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120475
- },
- {
-  "nama": "Repi Ramadani",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120321
- },
- {
-  "nama": "M. Maulana sakti",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050110413
- },
- {
-  "nama": "Mohd Azhima",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113334
- },
- {
-  "nama": "Nurfazilla",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050124146
- },
- {
-  "nama": "Dandi Irwayunda Pratama",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113429
- },
- {
-  "nama": "DEVI PUTRI MUHAMMAD NUR",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120355
- },
- {
-  "nama": "Muhammad Reza Fahlevi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113422
- },
- {
-  "nama": "M Rizky Davito",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113048
- },
- {
-  "nama": "Tasya Aprilia",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050123544
- },
- {
-  "nama": "SARI AMANDA PUTRI",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050123368
- },
- {
-  "nama": "Elsy Ramada Fitri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120397
- },
- {
-  "nama": "Muhammad Rizal Fadhli",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113626
- },
- {
-  "nama": "Rizki Maulana Yusra",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113426
- },
- {
-  "nama": "Muhammad Reda",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050117512
- },
- {
-  "nama": "FITRI SYAFNUR",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120501
- },
- {
-  "nama": "Abdul Halim",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950113404
- },
- {
-  "nama": "Al Fajri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115001
- },
- {
-  "nama": "Avaldy Rahmat Rivita",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115017
- },
- {
-  "nama": "Agung Surya Maulana",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950110369
- },
- {
-  "nama": "RISKY ARIADI CHANDRA SILITONGA",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika ",
-  "nim": 11950111737
- },
- {
-  "nama": "RAHMADAN ALAM ARDAN ANANDA",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115170
- },
- {
-  "nama": "Dimas Ferarizki",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950113420
- },
- {
-  "nama": "Abdul Wahid",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950114939
- },
- {
-  "nama": "Alya Firmanda Ersa",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050124690
- },
- {
-  "nama": "Rizkiya Indah Permata",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050121698
- },
- {
-  "nama": "Tiara Dwi Arista",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950125405
- },
- {
-  "nama": "Nindi Heti Amalia",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 1205012710
- },
- {
-  "nama": "M.Aziz Basten Syahputra",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116175
- },
- {
-  "nama": "Chindi Agustina",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050120431
- },
- {
-  "nama": "Murni Kumaya",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Manajemen",
-  "nim": 12070124147
- },
- {
-  "nama": "Nur Adila Agustina",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050123747
- },
- {
-  "nama": "Surya Aditya GD",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115225
- },
- {
-  "nama": "Nabilah Farras Cindy",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950125145
- },
- {
-  "nama": "Cindy Ariza Salsabilla",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050123788
- },
- {
-  "nama": "Rozi Saputra",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika ",
-  "nim": 12050117172
- },
- {
-  "nama": "Aldo Gunawan",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150114210
- },
- {
-  "nama": "FERDI HASAN",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12150111807
- },
- {
-  "nama": "Nurul Ramadiah Madjid",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950125158
- },
- {
-  "nama": "Lukman Ahmadi",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050114034
- },
- {
-  "nama": "Muhammad Zulfiadi Arrokany",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 1195011720
- },
- {
-  "nama": "Mentari Aulia Putri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika ",
-  "nim": 11950121717
- },
- {
-  "nama": "MUHAMMAD VIO HARDIANSYAH",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050116234
- },
- {
-  "nama": "Chely Aulia Misrun",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950121677
- },
- {
-  "nama": "M. ILHAM HABINI",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950115114
- },
- {
-  "nama": "Nurul Fajri",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050117578
- },
- {
-  "nama": "Arif Utama Rambe",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050113217
- },
- {
-  "nama": "MHD. ADE SETIAWAN",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050112241
- },
- {
-  "nama": "Rasyid Siddiq",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 12050110517
- },
- {
-  "nama": "Abdul Aziz",
-  "universitas": "UIN Sultan Syarif Kasim Riau",
-  "jurusan": "Teknik Informatika",
-  "nim": 11950111664
- }
-]
+{
+    "core": [{
+            "nama": "Muhammad Ridha",
+            "role": "Developers and Speakers",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Umar Dani",
+            "role": "Developers and Speakers",
+            "jurusan": "Sistem Informasi"
+        },
+        {
+            "nama": "Asdar Mustofa",
+            "role": "Media and Creatives",
+            "jurusan": "Sistem Informasi"
+        },
+        {
+            "nama": "Eka Sinta Aprillia",
+            "role": "Media and Creatives",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Ahmad Fauzan",
+            "role": "Human Resources and Administrations",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Wiwit Atika",
+            "role": "Human Resources and Administrations",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Lutfi Aldri Permana",
+            "role": "Event Organizer",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Ghefira Lawdza'i Utsula Farey",
+            "role": "Event Organizer",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Fahreza Pratama",
+            "role": "Partnerships and Programs",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Raudyah Maghfirah",
+            "role": "Partnerships and Programs",
+            "jurusan": "Teknik Informatika"
+        }
+    ],
+    "expert": [{
+            "nama": "Tiara Dwi Arista",
+            "nim": "11950125405",
+            "bidang": "Android"
+        },
+        {
+            "nama": "Tedi Maulani ",
+            "nim": "11950111744",
+            "bidang": "Google Cloud"
+        },
+        {
+            "nama": "Nabilah Farras Cindy",
+            "nim": "11950125145",
+            "bidang": "Android"
+        },
+        {
+            "nama": "Nurul Ramadiah Madjid",
+            "nim": "11950125158",
+            "bidang": "Android"
+        },
+        {
+            "nama": "Risna Lailatun Najmi",
+            "nim": "11950120055",
+            "bidang": "Android"
+        },
+        {
+            "nama": "Tomi ikhsan",
+            "nim": "11950111746",
+            "bidang": "Google Cloud"
+        },
+        {
+            "nama": "Risfi Ayu Sandika",
+            "nim": "11950125205",
+            "bidang": "Android"
+        },
+        {
+            "nama": "M. Fadil Martias",
+            "nim": "11950115110",
+            "bidang": "Android"
+        },
+        {
+            "nama": "Nuari ananda",
+            "nim": "11950115151",
+            "bidang": "Android"
+        },
+        {
+            "nama": "Novi Lestari",
+            "nim": "11950125150",
+            "bidang": "Android"
+        },
+        {
+            "nama": "Imaduddien",
+            "nim": "11950111693",
+            "bidang": "Android"
+        },
+        {
+            "nama": "M.RIFALDO AL MAGRIBI",
+            "nim": "11950111719",
+            "bidang": "Machine Learning (Tensorflow)"
+        },
+        {
+            "nama": "Abdul Wahid",
+            "nim": "11950114939",
+            "bidang": "Android"
+        },
+        {
+            "nama": "M. Saski",
+            "nim": "11950110012",
+            "bidang": "Google Cloud"
+        },
+        {
+            "nama": "IBRAHIM ARMADIAN PUJAKESUMA",
+            "nim": "11950111690",
+            "bidang": "Google Cloud"
+        }
+    ],
+    "members": [{
+            "nama": "Muhammad Giffari Anugerah Perdana",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150114744"
+        },
+        {
+            "nama": "Adrian Maulana",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950113406"
+        },
+        {
+            "nama": "Ibnu Sahid",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050110489"
+        },
+        {
+            "nama": "Briliant Mahathir",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050117625"
+        },
+        {
+            "nama": "Riska Yuliana",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika ",
+            "nim": "11950125206"
+        },
+        {
+            "nama": "Muhammad Dzaky Aprima",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150111896"
+        },
+        {
+            "nama": "NIDHAL FIKRI ADIWIDYA",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050315947"
+        },
+        {
+            "nama": "M Afif Rizky A",
+            "universitas": "Institut Teknologi Bandung",
+            "jurusan": "Informatika",
+            "nim": "23521034"
+        },
+        {
+            "nama": "Dhea Putri Aftari",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120341"
+        },
+        {
+            "nama": "Tata Ayunita Pertiwi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050327015"
+        },
+        {
+            "nama": "Raviko Muhammad Raihan Yusi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150111665"
+        },
+        {
+            "nama": "Nurul Fatiara",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122431"
+        },
+        {
+            "nama": "Aji Bayu Permadi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113503"
+        },
+        {
+            "nama": "Yudha Adelin Angkasa",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika ",
+            "nim": "12050110343"
+        },
+        {
+            "nama": "Putri Juniarti",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150121672"
+        },
+        {
+            "nama": "Alhuwayrist Royhan A",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150111628"
+        },
+        {
+            "nama": "Muhammad Mulky Mar'arif",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150111425"
+        },
+        {
+            "nama": "Martin Adha",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112287"
+        },
+        {
+            "nama": "Aji Prasetia",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050114090"
+        },
+        {
+            "nama": "FITRI AMALIA",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150121101"
+        },
+        {
+            "nama": "Bryant Favian Ali",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112938"
+        },
+        {
+            "nama": "Arif Al Farizi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112154"
+        },
+        {
+            "nama": "Rizki Wahyudi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050110396"
+        },
+        {
+            "nama": "Egi Larasati",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050123653"
+        },
+        {
+            "nama": "Delia Putri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122676"
+        },
+        {
+            "nama": "Melinda Sari",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150124343"
+        },
+        {
+            "nama": "lugas pasiolo",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113246"
+        },
+        {
+            "nama": "ALIF SYAHPUTRA",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116918"
+        },
+        {
+            "nama": "Muhammad Syarif",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112373"
+        },
+        {
+            "nama": "SAUGI RAHJU PRATAMA",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050115977"
+        },
+        {
+            "nama": "Alif Alfarabi.B",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112688"
+        },
+        {
+            "nama": "Dimas Agung Ikhlasul Amal",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150113179"
+        },
+        {
+            "nama": "Syifa Salsabilla",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120344"
+        },
+        {
+            "nama": "Rahimah",
+            "universitas": "Politeknik Negeri Tanah Laut",
+            "jurusan": "Teknik Informatika/Teknologi Informasi",
+            "nim": "1901301097"
+        },
+        {
+            "nama": "FITO NARDIAN",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113994"
+        },
+        {
+            "nama": "M. Wira Ade Kusuma",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12150311480"
+        },
+        {
+            "nama": "Gilang Ramadhan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113045"
+        },
+        {
+            "nama": "Muhammad Rakha",
+            "universitas": "UNRI",
+            "jurusan": "Teknik Informatika",
+            "nim": "1807124745"
+        },
+        {
+            "nama": "Muhammad Iqbal Maulana",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113093"
+        },
+        {
+            "nama": "Dary Rahman",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112305"
+        },
+        {
+            "nama": "Hafiz Aryan Siregar",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12150310904"
+        },
+        {
+            "nama": "MHD. KADARMAN",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113282"
+        },
+        {
+            "nama": "Mudia Ulfa",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122415"
+        },
+        {
+            "nama": "Alghozi Rafif Ali",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113406"
+        },
+        {
+            "nama": "Nabyl Alfahrez Ramadhan Amril",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116176"
+        },
+        {
+            "nama": "Tri Handoyo Adi Putra",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050114323"
+        },
+        {
+            "nama": "Putri Zahwa",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika ",
+            "nim": "12050120319"
+        },
+        {
+            "nama": "Ardi Wirawan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116312"
+        },
+        {
+            "nama": "NUR LAILA",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122424"
+        },
+        {
+            "nama": "Muhammad Zacky Raditya",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12150311608"
+        },
+        {
+            "nama": "Febrian Rizki Adi Sutiyo",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116997"
+        },
+        {
+            "nama": "Try Helviansyah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150114725"
+        },
+        {
+            "nama": "Yoga El Saputra",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116789"
+        },
+        {
+            "nama": "Aditya nugraha yesa",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12150312429"
+        },
+        {
+            "nama": "Fayat zabihullah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150112066"
+        },
+        {
+            "nama": "May Sra Handika",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113222"
+        },
+        {
+            "nama": "Hani Handayani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050321652"
+        },
+        {
+            "nama": "Ali Alamuddin Muzaffar",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050310450"
+        },
+        {
+            "nama": "Nailul Amani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050320469"
+        },
+        {
+            "nama": "Nova Siska Nurfadilah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150124481"
+        },
+        {
+            "nama": "Muhammad Ichsan Taufiqurrochman",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113384"
+        },
+        {
+            "nama": "Muhamad Nur Sarifudin",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12150311897"
+        },
+        {
+            "nama": "Melinia Suci Ramadhani",
+            "universitas": "Universitas Ibn Khaldun Bogor",
+            "jurusan": "Teknik Informatika",
+            "nim": "1.8116E+11"
+        },
+        {
+            "nama": "Mohammad Zhunio Farizky",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112257"
+        },
+        {
+            "nama": "Ahmad Fauzan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Elektro",
+            "nim": "12050512304"
+        },
+        {
+            "nama": "Ahmad Yasin",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113735"
+        },
+        {
+            "nama": "AHMAD DHANI",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12150311729"
+        },
+        {
+            "nama": "Salsa Winanda",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050322147"
+        },
+        {
+            "nama": "M Fadhillah Fitorahman",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150114446"
+        },
+        {
+            "nama": "Muhammad Taufiq",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115137"
+        },
+        {
+            "nama": "Putri Syakira Wirdiani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150121485"
+        },
+        {
+            "nama": "Reza Mahendra Sardi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115193"
+        },
+        {
+            "nama": "Fathurrahman Hafiz",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050312055"
+        },
+        {
+            "nama": "Salsabila",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050121662"
+        },
+        {
+            "nama": "Adilah Atikah Putri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120340"
+        },
+        {
+            "nama": "Riadi Hermansyah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112983"
+        },
+        {
+            "nama": "Syarifah aisyah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120380"
+        },
+        {
+            "nama": "Desstari Rizky Wahyuni",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122464"
+        },
+        {
+            "nama": "M. Haikel Oksama",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050313240"
+        },
+        {
+            "nama": "Aidil Ahda",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050111677"
+        },
+        {
+            "nama": "M. LUTHFI HARDIANT",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Pendidikan Agama Islam",
+            "nim": "12110112689"
+        },
+        {
+            "nama": "Syifaul Habib",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Perbandingan Mazhab dan Hukum",
+            "nim": "12120310367"
+        },
+        {
+            "nama": "Mita Tri Leony",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050123917"
+        },
+        {
+            "nama": "Khoironi Nur Azizah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "PGMI",
+            "nim": "11910821364"
+        },
+        {
+            "nama": "Indah Wulandari",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120353"
+        },
+        {
+            "nama": "Muammar Rizkullah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Manajemen",
+            "nim": "12070110801"
+        },
+        {
+            "nama": "Sasri'aini",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120386"
+        },
+        {
+            "nama": "Mella Arfina",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122345"
+        },
+        {
+            "nama": "Dimas Fauzan",
+            "universitas": "Universitas Muhammadiyah Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "210401136"
+        },
+        {
+            "nama": "Anisa Putri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "12050326104"
+        },
+        {
+            "nama": "Amanda Rahma Yanti",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122300"
+        },
+        {
+            "nama": "Alifia Handayani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Ilmu Komunikasi",
+            "nim": "11840321752"
+        },
+        {
+            "nama": "Taufiqurrahman",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Sistem Informasi",
+            "nim": "11850312423"
+        },
+        {
+            "nama": "Siti Sri Rahayu",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120515"
+        },
+        {
+            "nama": "Sephia Pratista",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950121740"
+        },
+        {
+            "nama": "Shania Cerly Yolanda",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Ilmu Komunikasi",
+            "nim": "11840322667"
+        },
+        {
+            "nama": "Resti Wahyuni",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Manajemen Dakwah",
+            "nim": "11840420799"
+        },
+        {
+            "nama": "Nurhabibah Lubis",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11850122320"
+        },
+        {
+            "nama": "Irna Syahputri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050126435"
+        },
+        {
+            "nama": "Mia Santika Rm",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Matematika",
+            "nim": "12050427513"
+        },
+        {
+            "nama": "Juliandi Kurniansyah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150111445"
+        },
+        {
+            "nama": "LAILA NURUL FAUZIYYAH",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150122415"
+        },
+        {
+            "nama": "Muhammad Ikhsan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11451105907"
+        },
+        {
+            "nama": "NOVRI RAHMAN",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150110009"
+        },
+        {
+            "nama": "Muhammad Alfarozi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116419"
+        },
+        {
+            "nama": "M. Saski",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950110012"
+        },
+        {
+            "nama": "Dhea Nabilla Adrian",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050123710"
+        },
+        {
+            "nama": "Syafira Agnesti",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950125228"
+        },
+        {
+            "nama": "Yusril Hidayat",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111753"
+        },
+        {
+            "nama": "M.RIFALDO AL MAGRIBI",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111719"
+        },
+        {
+            "nama": "Rahma Shinta",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950125168"
+        },
+        {
+            "nama": "Afiana Nabilla Zulfa",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950121666"
+        },
+        {
+            "nama": "Rifaldo abdul rahman",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115200"
+        },
+        {
+            "nama": "Tedi Maulani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111744"
+        },
+        {
+            "nama": "Zakiyul Fahmi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115237"
+        },
+        {
+            "nama": "M. Junaidi Zidane",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111704"
+        },
+        {
+            "nama": "Zaky Idhafi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950110021"
+        },
+        {
+            "nama": "Hafizd Adryan Suvi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050111692"
+        },
+        {
+            "nama": "Muhammad Fikri Sulthoni",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113077"
+        },
+        {
+            "nama": "Nadila Handayani Putri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950120086"
+        },
+        {
+            "nama": "Fathan Fanrita Masaugi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116900"
+        },
+        {
+            "nama": "Elvina Afriani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050123163"
+        },
+        {
+            "nama": "Yolanda",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120358"
+        },
+        {
+            "nama": "Dilla Rahmiati",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050126068"
+        },
+        {
+            "nama": "Maiyorahma Digna",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122022"
+        },
+        {
+            "nama": "Nilam Purnama",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122396"
+        },
+        {
+            "nama": "Ridho Ahadi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150115196"
+        },
+        {
+            "nama": "Hanifa putri husellvi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150122219"
+        },
+        {
+            "nama": "Citra Wulandari",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150121717"
+        },
+        {
+            "nama": "Muhammad Bagas Akbar",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112788"
+        },
+        {
+            "nama": "M. Rival Kurniawan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116070"
+        },
+        {
+            "nama": "Hendrawansyah Nasution",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150113914"
+        },
+        {
+            "nama": "Fajar Prayoga",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112032"
+        },
+        {
+            "nama": "SalsaBillah Diva Jabasa",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150123443"
+        },
+        {
+            "nama": "Maulana Ichsan Nopri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150114073"
+        },
+        {
+            "nama": "Dicky syaputra",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150115116"
+        },
+        {
+            "nama": "RIZMAH ZAKIAH NUR AHMAD",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150122153"
+        },
+        {
+            "nama": "Astrid Ramadhani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150121537"
+        },
+        {
+            "nama": "Nabila Al Rasyid",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150120329"
+        },
+        {
+            "nama": "Muhammad Isra Almahsa Veriza",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950113430"
+        },
+        {
+            "nama": "Isnan Mellian Ramadhan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111698"
+        },
+        {
+            "nama": "R. Rahmadhani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115165"
+        },
+        {
+            "nama": "Ferdian Arya Dinata",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115065"
+        },
+        {
+            "nama": "Shella Sabila",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150125133"
+        },
+        {
+            "nama": "Widya Guswanti",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150120069"
+        },
+        {
+            "nama": "Lusi Diah Wiranti",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150121581"
+        },
+        {
+            "nama": "Yoga Natadisastro",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150113125"
+        },
+        {
+            "nama": "SHERLY ANANDA",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150121884"
+        },
+        {
+            "nama": "Rendi Ibnu Syahputra",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050117694"
+        },
+        {
+            "nama": "Muhammad Arif Aditya",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika ",
+            "nim": "12150113167"
+        },
+        {
+            "nama": "Yolanda Enza Wella",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950121750"
+        },
+        {
+            "nama": "Dwi Nur Fitrianto",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12059112655"
+        },
+        {
+            "nama": "Alief Haikal Alwis",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050117644"
+        },
+        {
+            "nama": "Saifur Yusuf Kurniawan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113402"
+        },
+        {
+            "nama": "muhammad ilham ramadhan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150114705"
+        },
+        {
+            "nama": "Ananda Vermiansyah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050114356"
+        },
+        {
+            "nama": "Rana Fatrika",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120472"
+        },
+        {
+            "nama": "Melan Pratiwi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950125118"
+        },
+        {
+            "nama": "Maulana Junihardi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111715"
+        },
+        {
+            "nama": "DESY PUTRI AYUNI",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950121681"
+        },
+        {
+            "nama": "Risfi Ayu Sandika",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950125205"
+        },
+        {
+            "nama": "M. Fadil Martias",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115110"
+        },
+        {
+            "nama": "Imaduddien",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111693"
+        },
+        {
+            "nama": "Hafez Almirza",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950113423"
+        },
+        {
+            "nama": "Ahmad Paisal",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950114998"
+        },
+        {
+            "nama": "Deny Ardianto",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111680"
+        },
+        {
+            "nama": "Fauzan Adzim",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111686"
+        },
+        {
+            "nama": "Risma Aprilia",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120332"
+        },
+        {
+            "nama": "AHMAD SUTRIO PRIHATINOTO",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113307"
+        },
+        {
+            "nama": "Yazid Abdullah Subhi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050110498"
+        },
+        {
+            "nama": "Miftahul Jannah",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050126869"
+        },
+        {
+            "nama": "Vioni Sephia Putri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050122112"
+        },
+        {
+            "nama": "ismawan putra",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050110424"
+        },
+        {
+            "nama": "Syahriatul Iksan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050117086"
+        },
+        {
+            "nama": "Muhammad Hasbi Assidiqqi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115130"
+        },
+        {
+            "nama": "Irsa Aprianti",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120475"
+        },
+        {
+            "nama": "Repi Ramadani",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120321"
+        },
+        {
+            "nama": "M. Maulana sakti",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050110413"
+        },
+        {
+            "nama": "Mohd Azhima",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113334"
+        },
+        {
+            "nama": "Nurfazilla",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050124146"
+        },
+        {
+            "nama": "Dandi Irwayunda Pratama",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113429"
+        },
+        {
+            "nama": "DEVI PUTRI MUHAMMAD NUR",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120355"
+        },
+        {
+            "nama": "Muhammad Reza Fahlevi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113422"
+        },
+        {
+            "nama": "M Rizky Davito",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113048"
+        },
+        {
+            "nama": "Tasya Aprilia",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050123544"
+        },
+        {
+            "nama": "SARI AMANDA PUTRI",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050123368"
+        },
+        {
+            "nama": "Elsy Ramada Fitri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120397"
+        },
+        {
+            "nama": "Muhammad Rizal Fadhli",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113626"
+        },
+        {
+            "nama": "Rizki Maulana Yusra",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113426"
+        },
+        {
+            "nama": "Muhammad Reda",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050117512"
+        },
+        {
+            "nama": "FITRI SYAFNUR",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120501"
+        },
+        {
+            "nama": "Abdul Halim",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950113404"
+        },
+        {
+            "nama": "Al Fajri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115001"
+        },
+        {
+            "nama": "Avaldy Rahmat Rivita",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115017"
+        },
+        {
+            "nama": "Agung Surya Maulana",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950110369"
+        },
+        {
+            "nama": "RISKY ARIADI CHANDRA SILITONGA",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika ",
+            "nim": "11950111737"
+        },
+        {
+            "nama": "RAHMADAN ALAM ARDAN ANANDA",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115170"
+        },
+        {
+            "nama": "Dimas Ferarizki",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950113420"
+        },
+        {
+            "nama": "Abdul Wahid",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950114939"
+        },
+        {
+            "nama": "Alya Firmanda Ersa",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050124690"
+        },
+        {
+            "nama": "Rizkiya Indah Permata",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050121698"
+        },
+        {
+            "nama": "Tiara Dwi Arista",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950125405"
+        },
+        {
+            "nama": "Nindi Heti Amalia",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "1205012710"
+        },
+        {
+            "nama": "M.Aziz Basten Syahputra",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116175"
+        },
+        {
+            "nama": "Chindi Agustina",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050120431"
+        },
+        {
+            "nama": "Murni Kumaya",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Manajemen",
+            "nim": "12070124147"
+        },
+        {
+            "nama": "Nur Adila Agustina",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050123747"
+        },
+        {
+            "nama": "Surya Aditya GD",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115225"
+        },
+        {
+            "nama": "Nabilah Farras Cindy",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950125145"
+        },
+        {
+            "nama": "Cindy Ariza Salsabilla",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050123788"
+        },
+        {
+            "nama": "Rozi Saputra",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika ",
+            "nim": "12050117172"
+        },
+        {
+            "nama": "Aldo Gunawan",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150114210"
+        },
+        {
+            "nama": "FERDI HASAN",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12150111807"
+        },
+        {
+            "nama": "Nurul Ramadiah Madjid",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950125158"
+        },
+        {
+            "nama": "Lukman Ahmadi",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050114034"
+        },
+        {
+            "nama": "Muhammad Zulfiadi Arrokany",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "1195011720"
+        },
+        {
+            "nama": "Mentari Aulia Putri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika ",
+            "nim": "11950121717"
+        },
+        {
+            "nama": "MUHAMMAD VIO HARDIANSYAH",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050116234"
+        },
+        {
+            "nama": "Chely Aulia Misrun",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950121677"
+        },
+        {
+            "nama": "M. ILHAM HABINI",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950115114"
+        },
+        {
+            "nama": "Nurul Fajri",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050117578"
+        },
+        {
+            "nama": "Arif Utama Rambe",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050113217"
+        },
+        {
+            "nama": "MHD. ADE SETIAWAN",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050112241"
+        },
+        {
+            "nama": "Rasyid Siddiq",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "12050110517"
+        },
+        {
+            "nama": "Abdul Aziz",
+            "universitas": "UIN Sultan Syarif Kasim Riau",
+            "jurusan": "Teknik Informatika",
+            "nim": "11950111664"
+        }
+    ]
+}
