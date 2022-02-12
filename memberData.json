@@ -2,11 +2,13 @@
     "core": [{
             "nama": "Muhammad Ridha",
             "role": "Developers and Speakers",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/ridha.png",
             "jurusan": "Teknik Informatika"
         },
         {
             "nama": "Umar Dani",
             "role": "Developers and Speakers",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/umar.png",
             "jurusan": "Sistem Informasi"
         },
         {
@@ -18,36 +20,43 @@
         {
             "nama": "Eka Sinta Aprillia",
             "role": "Media and Creatives",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/eka.png",
             "jurusan": "Teknik Informatika"
         },
         {
             "nama": "Ahmad Fauzan",
             "role": "Human Resources and Administrations",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/fauzan.png",
             "jurusan": "Teknik Informatika"
         },
         {
             "nama": "Wiwit Atika",
             "role": "Human Resources and Administrations",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/wiwit.png",
             "jurusan": "Teknik Informatika"
         },
         {
             "nama": "Lutfi Aldri Permana",
             "role": "Event Organizer",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/lutfi.png",
             "jurusan": "Teknik Informatika"
         },
         {
             "nama": "Ghefira Lawdza'i Utsula Farey",
             "role": "Event Organizer",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/ghefira.png",
             "jurusan": "Teknik Informatika"
         },
         {
             "nama": "Fahreza Pratama",
             "role": "Partnerships and Programs",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/fahreza.png",
             "jurusan": "Teknik Informatika"
         },
         {
             "nama": "Raudyah Maghfirah",
             "role": "Partnerships and Programs",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/core_team/raudyah.png",
             "jurusan": "Teknik Informatika"
         }
     ],
