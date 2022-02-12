@@ -63,76 +63,91 @@
     "expert": [{
             "nama": "Tiara Dwi Arista",
             "nim": "11950125405",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/tiara.png",
             "bidang": "Android"
         },
         {
             "nama": "Tedi Maulani ",
             "nim": "11950111744",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/tedi.png",
             "bidang": "Google Cloud"
         },
         {
             "nama": "Nabilah Farras Cindy",
             "nim": "11950125145",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/nabilah.png",
             "bidang": "Android"
         },
         {
             "nama": "Nurul Ramadiah Madjid",
             "nim": "11950125158",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/nurul.png",
             "bidang": "Android"
         },
         {
             "nama": "Risna Lailatun Najmi",
             "nim": "11950120055",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/risna.png",
             "bidang": "Android"
         },
         {
             "nama": "Tomi ikhsan",
             "nim": "11950111746",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/tomi.png",
             "bidang": "Google Cloud"
         },
         {
             "nama": "Risfi Ayu Sandika",
             "nim": "11950125205",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/risfi.png",
             "bidang": "Android"
         },
         {
             "nama": "M. Fadil Martias",
             "nim": "11950115110",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/fadil.png",
             "bidang": "Android"
         },
         {
-            "nama": "Nuari ananda",
+            "nama": "Nuari Ananda",
             "nim": "11950115151",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/nuari.png",
             "bidang": "Android"
         },
         {
             "nama": "Novi Lestari",
             "nim": "11950125150",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/novi.png",
             "bidang": "Android"
         },
         {
-            "nama": "Imaduddien",
+            "nama": "Fauzan Adzim",
             "nim": "11950111693",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/fauzan.png",
             "bidang": "Android"
         },
         {
-            "nama": "M.RIFALDO AL MAGRIBI",
+            "nama": "M.Rifaldo Al Magribi",
             "nim": "11950111719",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/rifaldo.png",
             "bidang": "Machine Learning (Tensorflow)"
         },
         {
             "nama": "Abdul Wahid",
             "nim": "11950114939",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/wahid.png",
             "bidang": "Android"
         },
         {
             "nama": "M. Saski",
             "nim": "11950110012",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/saski.png",
             "bidang": "Google Cloud"
         },
         {
-            "nama": "IBRAHIM ARMADIAN PUJAKESUMA",
+            "nama": "Ibrahim Armadian Pujakesuma",
             "nim": "11950111690",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/ibrahim.png",
             "bidang": "Google Cloud"
         }
     ],
