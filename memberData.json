@@ -67,12 +67,6 @@
             "bidang": "Android"
         },
         {
-            "nama": "Tedi Maulani ",
-            "nim": "11950111744",
-            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/tedi.png",
-            "bidang": "Google Cloud"
-        },
-        {
             "nama": "Nabilah Farras Cindy",
             "nim": "11950125145",
             "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/nabilah.png",
@@ -89,12 +83,6 @@
             "nim": "11950120055",
             "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/risna.png",
             "bidang": "Android"
-        },
-        {
-            "nama": "Tomi ikhsan",
-            "nim": "11950111746",
-            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/tomi.png",
-            "bidang": "Google Cloud"
         },
         {
             "nama": "Risfi Ayu Sandika",
@@ -127,16 +115,22 @@
             "bidang": "Android"
         },
         {
-            "nama": "M.Rifaldo Al Magribi",
-            "nim": "11950111719",
-            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/rifaldo.png",
-            "bidang": "Machine Learning (Tensorflow)"
-        },
-        {
             "nama": "Abdul Wahid",
             "nim": "11950114939",
             "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/wahid.png",
             "bidang": "Android"
+        },
+        {
+            "nama": "Tomi ikhsan",
+            "nim": "11950111746",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/tomi.png",
+            "bidang": "Google Cloud"
+        },
+        {
+            "nama": "Tedi Maulani ",
+            "nim": "11950111744",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/tedi.png",
+            "bidang": "Google Cloud"
         },
         {
             "nama": "M. Saski",
@@ -149,6 +143,12 @@
             "nim": "11950111690",
             "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/ibrahim.png",
             "bidang": "Google Cloud"
+        },
+        {
+            "nama": "M.Rifaldo Al Magribi",
+            "nim": "11950111719",
+            "foto": "https://raw.githubusercontent.com/dscuinsuska/members/main/images/expert_team/rifaldo.png",
+            "bidang": "Machine Learning (Tensorflow)"
         }
     ],
     "members": [{
